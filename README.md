@@ -10,7 +10,7 @@ const me = {
 SELECT * FROM xpressiscool WHERE programmer=="true";
 ```
 ## Projects
-<h2>Login and Registration</h2>
+<h3>Login and Registration</h3>
 <ul>
     <li>Made using C++</li>
     <li>Can be executed as a console application</li>
