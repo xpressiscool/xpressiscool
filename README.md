@@ -7,5 +7,5 @@ const me = {
 }
 ```
 ```SQL
-SELECT * FROM nathan WHERE programmer=="true";
+SELECT * FROM xpressiscool WHERE programmer=="true";
 ```
