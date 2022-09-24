@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm xpress</h1>
 <h3 align="center">A passionate frontend developer from South America</h3>
 
-- 🔭 I’m currently working on [fetch-api-js](https://github.com/xpressiscool/fetch-api-js)
-
 - 🌱 I’m currently learning **express and NextJS**
 
 <h3 align="left">Connect with me:</h3>
